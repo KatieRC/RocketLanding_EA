@@ -35,5 +35,6 @@ This project deepened my understanding of evolutionary algorithms and their appl
 ## Demo
 To see the algorithm in action, run the `landing_simulation.py` script. Ensure you have the required libraries installed.
 
-**Full Project Report**: [Download PDF](link-to-your-pdf)
+**Full Project Report: [View Report](SET10107_40484293.pdf)
+
 
