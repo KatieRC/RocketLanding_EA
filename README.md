@@ -6,10 +6,10 @@ This project focuses on the analysis and implements an Evolutionary Algorithm (E
 The study explores various parameters, including activation functions and mutation rates, to enhance the algorithm's effectiveness. This README details the implementation process, performance evaluation through training and testing runs, and identifies areas for future improvement.
 
 ## Technologies Used
-**Programming Language**: Java
-**Artificial Intelligence**: Implementation of Evolutionary Algorithms
-**Data Structures**: ArrayList and Arrays
-**Development Environment**: Eclipse
+- **Programming Language**: Java
+- **Artificial Intelligence**: Implementation of Evolutionary Algorithms
+- **Data Structures**: ArrayList and Arrays
+- **Development Environment**: Eclipse
 
 ## Key Features
 - **Evolutionary Algorithm Implementation**
